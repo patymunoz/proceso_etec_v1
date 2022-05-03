@@ -10,4 +10,5 @@
 
 La documentación completa se encuentra disponible y se podrá consultar en el apartado "Wiki" de este repositorio.
 
+![](https://github.com/patymunoz/proceso_etec_v1/blob/main/imagenes/otros/m_wiki.png)
 
