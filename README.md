@@ -2,9 +2,7 @@
 
 ### Introducción
 
-[Pendiente] --> Incluir una breve introducción sobre qué es el proceso ETEC y sus fases. 
-
-[Pendiente] --> Incluir una breve descripción del área donde se utiliza
+La siguiente documentación tiene como objetivo describir las acciones que son parte el proceso de extracción, transformación, espacialización y carga de datos (ETEC). Dicho proceso constituye uno de los ejes principales en el área de Sistemas de Información Geográfica (SIG) de la Coordinación de Repositorios, Investigación y Prospectiva del Consejo Nacional de Ciencia y Tecnología (CRIP-Conacyt).
 
 ### Documentación completa sobre el proceso ETEC
 
